@@ -93,7 +93,7 @@ export default function History({ setInventory }) {
       <html>
         <head><title>Order #${order.id}</title></head>
         <body style="font-family: monospace; width: 300px; padding: 10px;">
-          <h1 style="text-align:center;">POS SYSTEM SLIP</h1>
+          <h1 style="text-align:center;">F&B ATY SLIP</h1>
           <p>Slip ID: ${order.id}</p>
           <p>Date: ${date}</p>
           <p>Status: ${statusLabel}</p>
