@@ -45,7 +45,7 @@ export default function Navbar({ toggleSidebar }) {
         </button>
 
         <h1 className="text-base sm:text-lg font-semibold text-gray-800">
-          Myat Taw Win (ATY) F&B Syste
+          Myat Taw Win (ATY) F&B System
         </h1>
       </div>
 
